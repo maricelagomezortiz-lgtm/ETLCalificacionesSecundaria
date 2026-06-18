@@ -45,11 +45,11 @@ Principales campos analizados:
 - Creacipon de archivo de salida con dataframe resultado
 
 <p align="center">
-  <img src="ima/promediomaterias.png" width="900">
+  <img src="img/promediomaterias.png" width="900">
 </p>
 <p align="center">
-  <img src="ima/riesgo.png" width="900">
+  <img src="img/riesgo.png" width="900">
 </p>
 <p align="center">
-  <img src="ima/top3.png" width="900">
+  <img src="img/top3.png" width="900">
 </p>
