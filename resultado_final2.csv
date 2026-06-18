@@ -1,0 +1,242 @@
+Clave_Alumno,Nombre_Alumno,Matemáticas,Español,Historia,Ciencias,Inglés,Promedio Tareas,Promedio Puntualidad,Promedio Asistencia,Promedio_Materias,pon_mat,pon_tar,pon_pun,pon_asi,cal_final,Estatus
+SEC1002,Carla Mateo,5.3,5.4,7.0,5.5,8.0,8.1,8.0,9.63,6.2,3.7,2.4,0.4,0.5,7.0,Aprobado
+SEC1003,María Elena Armendáriz,5.8,6.7,6.7,6.2,5.0,6.4,8.8,7.67,6.1,3.6,1.9,0.4,0.4,6.3,Aprobado
+SEC1004,Héctor Espinosa de la Crúz,6.6,7.2,9.5,5.5,5.7,6.1,9.7,8.93,6.9,4.1,1.8,0.5,0.4,6.8,Aprobado
+SEC1005,Cristian Lozano,6.3,9.2,8.8,6.7,9.0,8.4,8.6,9.52,8.0,4.8,2.5,0.4,0.5,8.2,Aprobado
+SEC1006,Frida Tomás Aguirre Manzanares,6.6,7.0,8.8,7.6,4.0,8.7,9.7,8.72,6.8,4.1,2.6,0.5,0.4,7.6,Aprobado
+SEC1007,Sandra Cano Rojas,8.3,6.9,5.2,8.8,5.9,9.7,9.0,7.93,7.0,4.2,2.9,0.4,0.4,7.9,Aprobado
+SEC1008,Andrea Clemente Godínez Sevilla,6.7,7.0,5.4,7.3,3.0,6.8,7.3,9.07,5.9,3.5,2.0,0.4,0.5,6.4,Aprobado
+SEC1009,Citlali Delgado,5.1,6.8,6.1,7.7,8.6,8.6,10.0,9.91,6.9,4.1,2.6,0.5,0.5,7.7,Aprobado
+SEC1010,Salma Gómez Sisneros,8.1,6.2,7.4,5.9,9.0,9.0,7.1,7.84,7.3,4.4,2.7,0.4,0.4,7.9,Aprobado
+SEC1011,Mateo Pablo Soto Vélez,6.0,6.3,6.8,6.4,7.2,6.4,7.2,8.39,6.5,3.9,1.9,0.4,0.4,6.6,Aprobado
+SEC1012,Aida Vanesa Ramírez,5.4,7.2,5.0,7.7,5.4,7.6,10.0,8.16,6.1,3.7,2.3,0.5,0.4,6.9,Aprobado
+SEC1013,Porfirio Nieto Olvera,7.4,8.8,6.7,6.7,8.2,9.5,8.3,9.29,7.6,4.5,2.8,0.4,0.5,8.2,Aprobado
+SEC1014,Andrés Zacarías Botello Saucedo,8.4,6.9,6.2,5.4,8.0,8.1,8.6,7.87,7.0,4.2,2.4,0.4,0.4,7.4,Aprobado
+SEC1015,Diego Luis Manuel Moreno,8.3,9.6,8.9,6.9,5.6,8.1,8.9,9.51,7.9,4.7,2.4,0.4,0.5,8.0,Aprobado
+SEC1016,Angélica Yeni Henríquez,6.9,5.3,5.7,8.3,6.7,9.0,9.9,9.17,6.6,3.9,2.7,0.5,0.5,7.6,Aprobado
+SEC1017,Ramón Vélez Aragón,6.5,9.0,5.1,7.6,9.4,6.5,8.5,8.86,7.5,4.5,2.0,0.4,0.4,7.3,Aprobado
+SEC1020,Jacobo Natividad Escobar Guerrero,6.7,7.7,9.6,9.0,7.7,7.9,9.2,9.44,8.1,4.9,2.4,0.5,0.5,8.3,Aprobado
+SEC1021,Esparta Roberto Bernal Niño,6.3,9.2,7.9,7.4,7.0,8.0,7.4,9.09,7.6,4.5,2.4,0.4,0.5,7.8,Aprobado
+SEC1022,Adela Samaniego Ramos,9.5,9.0,8.0,7.5,8.5,6.2,9.6,8.4,8.5,5.1,1.9,0.5,0.4,7.9,Aprobado
+SEC1023,Silvia Cardenas,8.3,7.1,6.8,8.9,6.7,9.3,7.5,9.94,7.6,4.5,2.8,0.4,0.5,8.2,Aprobado
+SEC1027,Noemí Ayala,6.4,9.8,5.9,5.1,8.3,7.9,7.1,10.0,7.1,4.3,2.4,0.4,0.5,7.6,Aprobado
+SEC1028,Karina Mauro de la O,5.7,9.4,9.5,6.1,9.3,9.6,9.7,9.44,8.0,4.8,2.9,0.5,0.5,8.7,Aprobado
+SEC1029,Ana María Saldaña,6.4,7.9,9.9,6.6,6.9,6.3,7.8,7.92,7.5,4.5,1.9,0.4,0.4,7.2,Aprobado
+SEC1030,Claudia Alta  Gracia Ibarra,7.1,7.1,8.0,7.5,3.0,8.1,9.3,9.82,6.5,3.9,2.4,0.5,0.5,7.3,Aprobado
+SEC1031,Amador Teodoro Tamez Barrios,9.2,6.5,9.3,7.3,6.4,7.8,8.6,8.2,7.7,4.6,2.3,0.4,0.4,7.7,Aprobado
+SEC1032,Salma Dulce Torres,6.0,9.7,5.3,9.7,7.0,6.4,8.7,9.4,7.5,4.5,1.9,0.4,0.5,7.3,Aprobado
+SEC1033,Graciela Polanco,7.2,6.8,7.5,6.0,6.1,6.2,9.7,7.68,6.7,4.0,1.9,0.5,0.4,6.8,Aprobado
+SEC1034,Soledad Delia Feliciano Torres,9.6,5.1,8.3,7.7,5.2,8.9,9.6,8.59,7.2,4.3,2.7,0.5,0.4,7.9,Aprobado
+SEC1035,Wendolin José Carlos Soto Gamez,6.5,5.9,5.6,8.4,9.1,6.1,8.1,7.88,7.1,4.3,1.8,0.4,0.4,6.9,Aprobado
+SEC1036,Fabiola Germán Orta Barrera,6.1,6.1,8.3,7.2,7.8,9.9,8.5,7.61,7.1,4.3,3.0,0.4,0.4,8.1,Aprobado
+SEC1037,Trinidad Aguilar Cavazos,5.7,8.7,9.6,5.6,2.0,8.2,7.1,8.8,6.3,3.8,2.5,0.4,0.4,7.1,Aprobado
+SEC1038,Alta  Gracia Jonás Godoy Sarabia,6.4,6.1,9.7,5.5,9.1,8.4,8.0,7.71,7.4,4.4,2.5,0.4,0.4,7.7,Aprobado
+SEC1039,Esther Sergio Alcántar,8.3,9.8,5.9,5.6,7.4,6.0,9.4,7.72,7.4,4.4,1.8,0.5,0.4,7.1,Aprobado
+SEC1040,Pablo Cristian Garica,5.2,5.7,7.3,9.7,8.3,6.6,8.4,7.73,7.2,4.3,2.0,0.4,0.4,7.1,Aprobado
+SEC1041,Ángel Moya,8.3,6.8,9.8,9.1,9.1,7.7,9.0,7.72,8.6,5.2,2.3,0.4,0.4,8.3,Aprobado
+SEC1042,Jorge Emilio Galván,5.0,6.6,7.0,8.9,9.1,6.3,9.8,8.22,7.3,4.4,1.9,0.5,0.4,7.2,Aprobado
+SEC1044,Alfredo Carbajal Medina,9.9,6.8,8.1,9.2,8.0,7.4,9.1,7.51,8.4,5.0,2.2,0.5,0.4,8.1,Aprobado
+SEC1045,Leonel Ernesto Baeza Arredondo,6.8,8.8,8.2,5.4,7.0,7.8,7.3,8.99,7.2,4.3,2.3,0.4,0.4,7.4,Aprobado
+SEC1046,Dolores Diana Delgadillo Véliz,8.7,6.0,8.2,5.4,6.0,9.1,7.8,9.73,6.9,4.1,2.7,0.4,0.5,7.7,Aprobado
+SEC1047,Isabel Vigil,9.9,5.8,5.1,8.6,8.8,8.7,9.3,8.41,7.6,4.6,2.6,0.5,0.4,8.1,Aprobado
+SEC1048,Julio César Valdez de la Fuente,5.5,10.0,8.0,6.4,9.5,6.2,7.8,7.83,7.9,4.7,1.9,0.4,0.4,7.4,Aprobado
+SEC1049,Andrea Salas Espinoza,7.1,8.1,7.6,7.8,5.6,9.9,8.0,9.5,7.2,4.3,3.0,0.4,0.5,8.2,Aprobado
+SEC1050,Esperanza Natalia Pelayo,8.2,8.8,8.3,7.2,6.2,6.5,7.3,9.42,7.7,4.6,2.0,0.4,0.5,7.5,Aprobado
+SEC1051,Abigail Abel Zedillo,9.2,9.1,9.4,6.8,5.0,6.5,7.0,8.02,7.9,4.7,2.0,0.4,0.4,7.5,Aprobado
+SEC1052,María del Carmen Toledo,9.6,9.0,5.6,9.2,5.9,6.7,9.7,9.57,7.9,4.7,2.0,0.5,0.5,7.7,Aprobado
+SEC1053,Tania Yáñez,5.3,5.1,9.0,7.0,7.8,8.2,7.6,8.28,6.8,4.1,2.5,0.4,0.4,7.4,Aprobado
+SEC1054,Marisol García Madrigal,8.0,8.9,6.7,5.1,5.7,9.8,8.3,8.74,6.9,4.1,2.9,0.4,0.4,7.8,Aprobado
+SEC1057,Mateo Sonia Villanueva Orellana,5.2,7.7,6.6,5.2,8.4,8.6,7.3,9.28,6.6,4.0,2.6,0.4,0.5,7.5,Aprobado
+SEC1058,Eva Hugo Martínez Mondragón,9.2,9.0,9.4,8.1,2.0,8.6,9.9,9.15,7.5,4.5,2.6,0.5,0.5,8.1,Aprobado
+SEC1059,Héctor Martha Calderón Ruelas,5.5,5.2,5.8,9.0,0.0,8.3,8.1,8.55,5.1,3.1,2.5,0.4,0.4,6.4,Aprobado
+SEC1060,Ángel Bianca Calvillo Piña,6.3,7.1,5.9,7.6,8.3,10.0,9.8,9.73,7.0,4.2,3.0,0.5,0.5,8.2,Aprobado
+SEC1062,Elvira Ramos,7.4,6.9,9.0,7.3,8.2,8.2,8.7,8.97,7.8,4.7,2.5,0.4,0.4,8.0,Aprobado
+SEC1063,Nicolás Ivonne Ontiveros Acosta,8.9,6.7,5.8,6.9,7.9,7.5,8.3,7.94,7.2,4.3,2.2,0.4,0.4,7.3,Aprobado
+SEC1065,Jorge Gregorio Armendáriz,7.6,6.2,8.1,7.6,6.7,8.5,8.2,9.76,7.2,4.3,2.6,0.4,0.5,7.8,Aprobado
+SEC1066,Armando Rincón Chavarría,8.8,9.9,6.7,7.4,6.2,9.4,9.1,9.28,7.8,4.7,2.8,0.5,0.5,8.5,Aprobado
+SEC1069,Arturo Zamudio Anguiano,8.2,6.1,7.1,9.2,3.0,8.6,9.6,9.24,6.7,4.0,2.6,0.5,0.5,7.6,Aprobado
+SEC1070,Clemente Meraz,9.9,7.2,5.1,5.2,9.9,9.1,9.9,8.87,7.5,4.5,2.7,0.5,0.4,8.1,Aprobado
+SEC1071,Alonso Loya,8.4,7.8,8.6,9.1,8.5,6.1,7.4,8.62,8.5,5.1,1.8,0.4,0.4,7.7,Aprobado
+SEC1072,Juan Carlos Lucio,9.1,9.2,7.1,9.2,6.7,6.5,9.9,8.39,8.3,5.0,2.0,0.5,0.4,7.9,Aprobado
+SEC1073,Teodoro Gerónimo Leal Barrera,6.6,5.4,6.0,5.2,7.8,6.0,8.5,8.55,6.2,3.7,1.8,0.4,0.4,6.3,Aprobado
+SEC1074,Santiago Olga Cepeda,8.5,5.3,5.9,6.7,5.0,8.0,8.2,8.4,6.3,3.8,2.4,0.4,0.4,7.0,Aprobado
+SEC1075,René Mesa Pedraza,9.7,5.5,6.3,8.5,6.8,9.5,8.3,9.11,7.4,4.4,2.8,0.4,0.5,8.1,Aprobado
+SEC1076,Marisol Teresa Cazares Acuña,9.6,9.6,7.2,7.2,5.2,9.7,9.8,8.48,7.8,4.7,2.9,0.5,0.4,8.5,Aprobado
+SEC1077,Eric Orellana,9.2,8.7,6.8,5.3,8.0,7.8,8.5,7.58,7.6,4.6,2.3,0.4,0.4,7.7,Aprobado
+SEC1078,Carla Lozada Salcedo,6.0,6.4,8.5,5.8,8.0,8.1,9.6,9.04,6.9,4.2,2.4,0.5,0.5,7.6,Aprobado
+SEC1081,Hilda Tejeda,5.5,9.4,9.2,6.9,3.0,6.9,7.2,9.24,6.8,4.1,2.1,0.4,0.5,7.1,Aprobado
+SEC1082,Alicia Elizondo,8.9,7.2,8.0,8.0,8.9,8.1,9.7,8.54,8.2,4.9,2.4,0.5,0.4,8.2,Aprobado
+SEC1083,Ángel Armando Chacón Márquez,8.7,5.4,6.9,5.3,7.3,6.5,7.5,9.25,6.7,4.0,2.0,0.4,0.5,6.9,Aprobado
+SEC1084,Salma Eugenia Barreto,5.6,9.8,9.0,7.1,5.8,6.9,9.4,8.24,7.5,4.5,2.1,0.5,0.4,7.5,Aprobado
+SEC1087,Carlota Lilia Guzmán,7.8,5.3,8.3,8.3,7.1,8.7,7.5,9.41,7.4,4.4,2.6,0.4,0.5,7.9,Aprobado
+SEC1088,Abigail Cristal Barela Carrión,7.9,8.7,9.8,8.1,4.3,8.4,9.7,7.86,7.8,4.7,2.5,0.5,0.4,8.1,Aprobado
+SEC1089,Violeta Ybarra Bustos,6.1,8.7,9.0,7.5,9.9,9.8,7.6,8.82,8.2,4.9,2.9,0.4,0.4,8.6,Aprobado
+SEC1090,Yuridia Juan Carlos Figueroa Lomeli,6.2,9.5,5.6,6.5,5.9,8.9,8.9,9.17,6.7,4.0,2.7,0.4,0.5,7.6,Aprobado
+SEC1092,Liliana Fierro Collado,6.3,9.8,8.1,9.9,5.0,6.4,8.5,9.94,7.8,4.7,1.9,0.4,0.5,7.5,Aprobado
+SEC1093,María Eugenia Gregorio Beltrán Arevalo,5.4,7.3,7.5,7.2,5.3,8.5,7.4,8.34,6.5,3.9,2.6,0.4,0.4,7.3,Aprobado
+SEC1094,Rosa Josefina Alcaraz Trujillo,7.2,8.7,7.3,6.5,8.5,7.4,9.6,8.08,7.6,4.6,2.2,0.5,0.4,7.7,Aprobado
+SEC1095,Javier Galarza González,6.8,9.6,6.3,7.9,5.5,8.9,8.1,8.63,7.2,4.3,2.7,0.4,0.4,7.8,Aprobado
+SEC1096,Ilse Leonardo Salazar Mora,6.9,5.9,5.9,8.4,6.0,6.6,9.3,8.87,6.6,4.0,2.0,0.5,0.4,6.9,Aprobado
+SEC1097,Ernesto Jaqueline Guerrero,8.7,7.1,6.9,6.3,2.6,9.9,8.2,9.26,6.3,3.8,3.0,0.4,0.5,7.7,Aprobado
+SEC1098,Cynthia Bruno Barrientos,8.4,5.0,9.6,9.9,6.1,6.6,8.8,8.61,7.8,4.7,2.0,0.4,0.4,7.5,Aprobado
+SEC1100,María José Ana Luisa Loya Villarreal,6.4,7.5,8.3,8.3,5.8,6.7,7.8,8.5,7.3,4.4,2.0,0.4,0.4,7.2,Aprobado
+SEC1101,Zacarías Julia Martínez,7.4,6.9,7.1,9.9,8.5,6.5,7.7,9.42,8.0,4.8,2.0,0.4,0.5,7.7,Aprobado
+SEC1103,Rebeca Baeza Ayala,5.2,6.2,7.3,7.1,2.3,9.6,8.9,9.05,5.6,3.4,2.9,0.4,0.5,7.2,Aprobado
+SEC1105,Rubén Sáenz,8.1,6.5,9.7,6.6,7.0,6.8,8.9,9.57,7.6,4.5,2.0,0.4,0.5,7.4,Aprobado
+SEC1107,Alejandro Contreras Reynoso,5.6,5.8,9.7,8.2,9.8,7.8,7.2,9.38,7.8,4.7,2.3,0.4,0.5,7.9,Aprobado
+SEC1108,Aurelio Samuel Vera,6.8,8.8,7.8,8.2,7.0,9.0,9.0,7.93,7.7,4.6,2.7,0.4,0.4,8.1,Aprobado
+SEC1109,Clara Leonardo Zaragoza Segovia,6.0,8.8,9.3,6.5,7.1,8.5,7.6,8.33,7.5,4.5,2.6,0.4,0.4,7.9,Aprobado
+SEC1110,Pablo Badillo Pineda,9.6,7.9,8.8,6.3,8.1,8.3,7.5,8.74,8.1,4.9,2.5,0.4,0.4,8.2,Aprobado
+SEC1111,Julio Reynoso,5.3,5.7,8.2,8.7,2.8,8.0,7.6,8.32,6.1,3.7,2.4,0.4,0.4,6.9,Aprobado
+SEC1113,Andrés Valadez Orellana,9.6,5.3,9.9,8.0,8.5,9.8,9.0,8.12,8.3,5.0,2.9,0.4,0.4,8.7,Aprobado
+SEC1114,Joaquín Octavio Zaragoza Suárez,9.3,6.7,6.0,7.0,7.8,8.2,7.9,9.44,7.4,4.4,2.5,0.4,0.5,7.8,Aprobado
+SEC1115,Carlos Sessa Leal Villalobos,9.9,8.5,9.2,7.1,6.6,8.9,8.7,7.59,8.3,5.0,2.7,0.4,0.4,8.5,Aprobado
+SEC1117,Elvia Cabán Arguello,5.3,8.6,5.5,6.7,6.0,6.8,7.7,7.56,6.4,3.9,2.0,0.4,0.4,6.7,Aprobado
+SEC1118,Mitzy Porfirio Córdova Sosa,5.4,6.1,6.6,5.7,5.8,9.0,8.7,9.18,5.9,3.6,2.7,0.4,0.5,7.2,Aprobado
+SEC1119,María Eugenia Lorena Curiel,6.2,7.1,7.3,8.3,5.3,9.5,7.4,8.63,6.8,4.1,2.8,0.4,0.4,7.7,Aprobado
+SEC1120,Javier Magaña,7.7,9.1,5.7,6.1,5.8,7.1,8.9,7.74,6.9,4.1,2.1,0.4,0.4,7.0,Aprobado
+SEC1121,Barbara Roybal,6.2,8.4,6.9,6.8,9.4,9.7,7.0,7.66,7.5,4.5,2.9,0.4,0.4,8.2,Aprobado
+SEC1122,Raúl Meléndez Rivero,8.7,6.4,8.9,8.5,8.3,7.0,9.6,9.79,8.2,4.9,2.1,0.5,0.5,8.0,Aprobado
+SEC1123,Elsa Amalia Villanueva Alejandro,9.3,6.0,7.2,5.2,8.9,6.4,9.7,8.48,7.3,4.4,1.9,0.5,0.4,7.2,Aprobado
+SEC1124,Miriam Vega Blanco,7.6,8.5,8.6,5.1,7.7,9.8,9.2,7.88,7.5,4.5,2.9,0.5,0.4,8.3,Aprobado
+SEC1126,Perla Ontiveros Portillo,7.2,9.3,6.4,7.5,6.3,9.2,8.4,7.81,7.3,4.4,2.8,0.4,0.4,8.0,Aprobado
+SEC1128,Judith Castillo,9.4,8.2,9.3,7.9,6.4,6.9,8.9,8.29,8.2,4.9,2.1,0.4,0.4,7.8,Aprobado
+SEC1129,María Elena Montenegro Tamez,5.5,9.4,6.2,7.0,8.5,8.1,9.7,9.26,7.3,4.4,2.4,0.5,0.5,7.8,Aprobado
+SEC1130,José María Terán,6.4,9.4,8.0,8.7,8.6,8.7,7.4,9.72,8.2,4.9,2.6,0.4,0.5,8.4,Aprobado
+SEC1131,Araceli Rivera,5.7,8.4,7.3,9.8,9.3,9.2,7.3,9.03,8.1,4.9,2.8,0.4,0.5,8.6,Aprobado
+SEC1132,Serafín Ozuna,9.2,9.7,6.7,6.6,8.4,7.0,9.9,8.92,8.1,4.9,2.1,0.5,0.4,7.9,Aprobado
+SEC1133,Modesto Elvia Saavedra,5.3,7.6,6.9,8.9,8.2,9.4,7.9,9.18,7.4,4.4,2.8,0.4,0.5,8.1,Aprobado
+SEC1135,Aida Bianca Lovato Báez,6.8,6.2,9.8,9.1,8.8,8.0,7.0,9.29,8.1,4.9,2.4,0.4,0.5,8.2,Aprobado
+SEC1136,Ariadna Godoy,7.2,5.9,6.5,6.5,9.8,9.6,9.9,9.71,7.2,4.3,2.9,0.5,0.5,8.2,Aprobado
+SEC1137,Ilse Alma Vázquez Feliciano,6.1,9.3,6.8,9.2,5.7,9.6,9.2,9.58,7.4,4.5,2.9,0.5,0.5,8.4,Aprobado
+SEC1138,Oswaldo Centeno,7.9,6.0,7.3,5.8,9.1,6.6,9.9,8.88,7.2,4.3,2.0,0.5,0.4,7.2,Aprobado
+SEC1139,Antonia Ramiro Tórrez Rivas,7.7,7.7,7.6,5.3,5.4,7.9,9.5,9.92,6.7,4.0,2.4,0.5,0.5,7.4,Aprobado
+SEC1140,Ángel Gustavo Rojo,9.2,7.6,5.9,7.1,7.4,8.8,10.0,8.14,7.4,4.5,2.6,0.5,0.4,8.0,Aprobado
+SEC1141,Teodoro Armando Cruz Bermúdez,9.5,6.9,8.2,8.7,7.9,6.7,9.7,9.47,8.2,4.9,2.0,0.5,0.5,7.9,Aprobado
+SEC1142,Débora Benavídez,7.5,7.0,5.7,8.0,8.9,7.8,7.8,7.85,7.4,4.5,2.3,0.4,0.4,7.6,Aprobado
+SEC1143,Pablo Rolón,5.6,6.1,7.9,8.5,9.4,7.5,9.2,8.01,7.5,4.5,2.2,0.5,0.4,7.6,Aprobado
+SEC1144,Francisco Javier Muro Fernández,7.5,9.8,7.0,8.8,8.8,8.4,9.3,9.89,8.4,5.0,2.5,0.5,0.5,8.5,Aprobado
+SEC1145,José Manuél Ignacio García,7.3,6.0,6.9,7.8,8.0,8.6,7.6,8.05,7.2,4.3,2.6,0.4,0.4,7.7,Aprobado
+SEC1146,José Luis Sevilla,8.9,8.2,9.0,7.7,8.7,7.6,9.3,9.37,8.5,5.1,2.3,0.5,0.5,8.4,Aprobado
+SEC1147,Arcelia Florencia Yáñez,5.9,5.5,6.6,6.3,8.3,8.7,8.2,9.55,6.5,3.9,2.6,0.4,0.5,7.4,Aprobado
+SEC1149,Nelly Karla Delgado Baca,9.7,9.6,8.4,6.8,9.5,9.4,7.0,8.52,8.8,5.3,2.8,0.4,0.4,8.9,Aprobado
+SEC1150,Gerónimo Narváez Sierra,5.9,8.3,9.7,6.1,8.3,7.1,7.5,8.84,7.7,4.6,2.1,0.4,0.4,7.5,Aprobado
+SEC1151,Rafaél Serna Leyva,7.6,10.0,7.7,6.5,6.4,6.3,7.2,9.32,7.6,4.6,1.9,0.4,0.5,7.4,Aprobado
+SEC1153,María de la Torre Moya,5.6,6.3,6.7,7.1,8.1,9.6,7.6,8.94,6.8,4.1,2.9,0.4,0.4,7.8,Aprobado
+SEC1154,Felix Fuentes Haro,9.9,6.2,5.8,6.4,8.1,7.4,8.6,7.58,7.3,4.4,2.2,0.4,0.4,7.4,Aprobado
+SEC1155,Mario Rosalia Trujillo,7.4,9.5,6.8,6.8,6.6,7.5,8.8,9.33,7.4,4.5,2.2,0.4,0.5,7.6,Aprobado
+SEC1156,Pedro Horacio Bañuelos,5.6,8.4,9.5,5.9,9.9,8.0,8.0,9.17,7.9,4.7,2.4,0.4,0.5,8.0,Aprobado
+SEC1158,Abel Estefanía Bustamante,8.1,9.3,7.1,6.8,7.5,8.3,8.9,9.74,7.8,4.7,2.5,0.4,0.5,8.1,Aprobado
+SEC1159,Trinidad Vallejo Barraza,7.8,7.7,6.5,9.6,7.5,6.5,7.5,8.73,7.8,4.7,2.0,0.4,0.4,7.5,Aprobado
+SEC1160,Óscar Ricardo Olivárez Anaya,5.7,8.4,6.8,5.3,0.0,7.4,8.3,9.91,5.2,3.1,2.2,0.4,0.5,6.2,Aprobado
+SEC1161,Virginia Véliz Quiñones,8.3,7.2,8.5,9.8,0.0,7.0,10.0,8.81,6.8,4.1,2.1,0.5,0.4,7.1,Aprobado
+SEC1162,Ariadna Angulo Armas,5.9,8.2,5.0,9.8,5.6,7.0,7.1,9.32,6.9,4.1,2.1,0.4,0.5,7.1,Aprobado
+SEC1163,Juan Carlos Itzel Valencia Loya,9.5,7.4,6.9,5.9,2.3,6.9,8.6,9.53,6.4,3.8,2.1,0.4,0.5,6.8,Aprobado
+SEC1164,Carlota Cano,8.1,5.3,8.2,7.7,5.1,6.4,7.5,9.71,6.9,4.1,1.9,0.4,0.5,6.9,Aprobado
+SEC1167,Verónica Vallejo Vallejo,6.6,5.5,7.1,8.7,6.2,7.7,8.5,8.45,6.8,4.1,2.3,0.4,0.4,7.2,Aprobado
+SEC1168,Abelardo Sofía Espino,6.8,6.8,8.2,8.8,9.1,6.3,8.6,8.84,7.9,4.8,1.9,0.4,0.4,7.5,Aprobado
+SEC1169,María Eugenia María Cristina Peres,6.6,7.5,7.8,5.4,6.7,7.7,9.2,8.44,6.8,4.1,2.3,0.5,0.4,7.3,Aprobado
+SEC1170,Gregorio Montero,7.3,6.4,8.8,6.9,9.1,6.9,8.4,9.15,7.7,4.6,2.1,0.4,0.5,7.6,Aprobado
+SEC1171,Aida Anabel Colón,5.4,6.6,6.0,5.4,6.1,8.3,9.6,9.25,5.9,3.5,2.5,0.5,0.5,7.0,Aprobado
+SEC1172,Martín Arroyo Patiño,9.4,8.6,7.4,5.9,2.3,7.8,7.9,8.49,6.7,4.0,2.3,0.4,0.4,7.1,Aprobado
+SEC1173,Rocío Arteaga,5.7,5.9,6.4,9.6,8.3,9.6,9.7,7.68,7.2,4.3,2.9,0.5,0.4,8.1,Aprobado
+SEC1175,Daniel Sepúlveda Rosado,9.2,5.7,8.9,6.4,9.1,6.2,7.4,9.05,7.9,4.7,1.9,0.4,0.5,7.5,Aprobado
+SEC1176,Cynthia Vicente Prieto,9.0,5.3,8.9,5.6,8.3,6.3,9.4,8.57,7.4,4.5,1.9,0.5,0.4,7.3,Aprobado
+SEC1178,Carla Palomino Munguía,7.1,7.3,7.6,5.1,7.1,8.7,7.8,7.9,6.8,4.1,2.6,0.4,0.4,7.5,Aprobado
+SEC1179,Sergio Perla Saiz,6.7,5.7,5.7,8.1,6.5,7.7,8.6,9.54,6.5,3.9,2.3,0.4,0.5,7.1,Aprobado
+SEC1180,Eduardo Gerónimo Curiel,7.8,9.2,7.6,6.8,2.0,8.9,7.7,9.35,6.7,4.0,2.7,0.4,0.5,7.6,Aprobado
+SEC1181,Amalia Apodaca Archuleta,9.8,8.4,5.9,9.1,3.0,6.3,7.4,8.06,7.2,4.3,1.9,0.4,0.4,7.0,Aprobado
+SEC1183,Óliver Arguello,8.4,7.0,8.0,8.1,4.0,9.6,8.4,8.42,7.1,4.3,2.9,0.4,0.4,8.0,Aprobado
+SEC1184,Abigail Solorio Roldán,9.0,6.2,8.5,8.3,5.6,7.5,8.8,7.65,7.5,4.5,2.2,0.4,0.4,7.5,Aprobado
+SEC1186,Claudio Itzel Correa,7.7,8.4,8.7,6.6,2.3,7.5,7.4,8.52,6.7,4.0,2.2,0.4,0.4,7.0,Aprobado
+SEC1187,Javier Armando Aragón Cantú,5.1,5.9,9.3,5.0,4.6,8.1,9.8,7.91,6.0,3.6,2.4,0.5,0.4,6.9,Aprobado
+SEC1188,Jaqueline Puga Chávez,8.2,7.0,9.4,6.8,8.9,8.1,8.1,8.34,8.1,4.8,2.4,0.4,0.4,8.0,Aprobado
+SEC1189,Micaela Amalia Salcido,8.6,6.5,7.6,6.6,2.3,9.0,8.1,7.99,6.3,3.8,2.7,0.4,0.4,7.3,Aprobado
+SEC1190,Horacio Óliver Aragón Arevalo,7.8,8.0,5.1,9.9,5.3,9.3,9.3,9.49,7.2,4.3,2.8,0.5,0.5,8.1,Aprobado
+SEC1191,Iván Ballesteros,8.5,10.0,9.9,6.5,1.0,8.5,9.6,9.41,7.2,4.3,2.6,0.5,0.5,7.9,Aprobado
+SEC1192,Laura Nicolás Salcido Jiménez,6.4,6.8,7.4,9.9,7.8,6.6,8.2,7.64,7.7,4.6,2.0,0.4,0.4,7.4,Aprobado
+SEC1193,Nicolás Zayas Godoy,5.2,9.5,7.1,5.4,6.5,6.7,7.4,8.01,6.7,4.0,2.0,0.4,0.4,6.8,Aprobado
+SEC1194,Clemente Páez,6.3,5.4,6.8,5.1,5.0,8.0,7.3,8.62,5.7,3.4,2.4,0.4,0.4,6.6,Aprobado
+SEC1196,Clemente Juan Carlos Covarrubias Cisneros,8.3,5.5,7.5,6.3,8.0,7.1,8.0,7.83,7.1,4.3,2.1,0.4,0.4,7.2,Aprobado
+SEC1197,Arturo Ariadna Maldonado Valverde,8.5,9.7,5.7,5.3,7.5,8.6,9.2,8.12,7.3,4.4,2.6,0.5,0.4,7.9,Aprobado
+SEC1199,Mateo Alta  Gracia Ballesteros,7.9,9.4,7.5,6.1,2.3,7.5,8.4,9.34,6.6,4.0,2.2,0.4,0.5,7.1,Aprobado
+SEC1200,Estefanía Garibay Posada,7.4,6.1,8.6,8.2,5.6,9.6,8.4,9.02,7.2,4.3,2.9,0.4,0.5,8.1,Aprobado
+SEC1201,Esparta Balderas Briseño,6.4,9.0,7.8,6.7,2.3,6.1,7.1,9.23,6.4,3.9,1.8,0.4,0.5,6.6,Aprobado
+SEC1202,Modesto Negrón Paz,6.5,6.0,9.2,5.7,4.5,9.1,9.3,9.33,6.4,3.8,2.7,0.5,0.5,7.5,Aprobado
+SEC1203,Bianca Alcala,8.2,7.3,9.4,9.1,8.1,6.7,7.2,9.75,8.4,5.1,2.0,0.4,0.5,8.0,Aprobado
+SEC1204,Vanesa Aranda,5.2,6.7,5.9,5.0,9.3,7.3,7.9,9.98,6.4,3.9,2.2,0.4,0.5,7.0,Aprobado
+SEC1206,Elvira Tovar Gastélum,5.6,6.2,6.1,5.4,8.2,7.5,9.3,9.57,6.3,3.8,2.2,0.5,0.5,7.0,Aprobado
+SEC1209,Berta Nájera,5.8,5.6,6.9,5.2,7.7,7.4,7.7,8.35,6.2,3.7,2.2,0.4,0.4,6.7,Aprobado
+SEC1210,Estela Héctor Benavides Valencia,7.5,6.1,8.9,9.4,6.7,9.0,9.4,8.17,7.7,4.6,2.7,0.5,0.4,8.2,Aprobado
+SEC1213,César Zarate Moreno,8.6,7.7,5.2,6.6,6.2,7.6,8.9,8.44,6.9,4.1,2.3,0.4,0.4,7.2,Aprobado
+SEC1214,Mauricio García Morales,7.5,7.9,6.4,8.1,3.6,6.4,8.4,9.94,6.7,4.0,1.9,0.4,0.5,6.8,Aprobado
+SEC1215,José Emilio Leyva Martínez,7.7,8.7,6.6,8.2,7.8,9.6,8.4,9.41,7.8,4.7,2.9,0.4,0.5,8.5,Aprobado
+SEC1218,Hermelinda Adame Baeza,10.0,8.4,5.7,9.8,6.4,9.7,9.5,8.3,8.1,4.8,2.9,0.5,0.4,8.6,Aprobado
+SEC1219,Hugo Georgina Marroquín Calvillo,9.8,5.3,7.4,6.3,5.2,6.3,7.5,9.16,6.8,4.1,1.9,0.4,0.5,6.9,Aprobado
+SEC1220,Dolores Colunga Terrazas,8.7,9.2,7.0,8.0,9.7,7.3,8.6,9.48,8.5,5.1,2.2,0.4,0.5,8.2,Aprobado
+SEC1222,Ernesto José Carlos Galarza,9.2,6.8,8.0,9.0,3.0,8.1,8.8,8.46,7.2,4.3,2.4,0.4,0.4,7.5,Aprobado
+SEC1223,Pilar Clemente Paredes Carrión,8.8,9.1,5.2,7.8,6.7,9.2,8.3,9.92,7.5,4.5,2.8,0.4,0.5,8.2,Aprobado
+SEC1224,Guadalupe Moreno,7.4,5.0,8.4,6.9,8.2,9.0,8.3,9.45,7.2,4.3,2.7,0.4,0.5,7.9,Aprobado
+SEC1225,Lorena Paz Caballero,5.9,8.0,9.0,8.2,1.0,7.0,9.9,7.55,6.4,3.9,2.1,0.5,0.4,6.9,Aprobado
+SEC1227,Mateo Hidalgo,7.2,5.9,5.2,5.7,2.0,6.6,8.5,9.13,5.2,3.1,2.0,0.4,0.5,6.0,Aprobado
+SEC1228,Celia Adela Lerma Velásquez,5.7,6.1,7.9,6.2,8.1,9.5,9.8,9.12,6.8,4.1,2.8,0.5,0.5,7.9,Aprobado
+SEC1229,Soledad Indira Barajas Villalobos,5.3,6.1,7.4,9.9,8.7,10.0,9.3,8.16,7.5,4.5,3.0,0.5,0.4,8.4,Aprobado
+SEC1231,Guillermina de la Torre,5.5,9.0,6.3,8.5,9.3,9.4,7.0,9.75,7.7,4.6,2.8,0.4,0.5,8.3,Aprobado
+SEC1233,Eva Botello,5.6,6.7,5.5,9.5,6.6,6.5,9.8,9.49,6.8,4.1,2.0,0.5,0.5,7.1,Aprobado
+SEC1234,Ángel Aurelio Hurtado Leyva,8.4,8.9,9.7,8.7,3.2,7.8,9.2,8.86,7.8,4.7,2.3,0.5,0.4,7.9,Aprobado
+SEC1235,Susana Abel Ocasio Camacho,7.4,9.0,5.3,7.3,7.2,6.5,8.2,8.9,7.2,4.3,2.0,0.4,0.4,7.1,Aprobado
+SEC1237,Amelia Amalia Mascareñas Bermúdez,6.0,6.1,10.0,6.2,7.5,8.3,7.4,7.94,7.2,4.3,2.5,0.4,0.4,7.6,Aprobado
+SEC1238,Patricio Longoria Valadez,6.0,5.8,5.4,7.2,9.7,7.6,8.8,7.98,6.8,4.1,2.3,0.4,0.4,7.2,Aprobado
+SEC1239,Isabel Robles Cervantes,7.7,8.6,9.6,5.3,8.3,7.4,9.2,7.84,7.9,4.7,2.2,0.5,0.4,7.8,Aprobado
+SEC1240,Carmen Almanza Romo,8.7,8.7,5.9,5.3,6.6,6.6,8.3,9.8,7.0,4.2,2.0,0.4,0.5,7.1,Aprobado
+SEC1242,Mercedes Pacheco Rentería,6.9,9.0,5.7,6.7,9.2,8.8,7.9,9.1,7.5,4.5,2.6,0.4,0.5,8.0,Aprobado
+SEC1243,Leticia Elvira Esparza Montero,6.6,9.0,7.7,5.0,2.3,9.8,9.5,7.77,6.1,3.7,2.9,0.5,0.4,7.5,Aprobado
+SEC1244,Ivonne Reynoso,6.9,9.9,5.4,7.9,7.6,9.6,7.1,8.04,7.5,4.5,2.9,0.4,0.4,8.2,Aprobado
+SEC1245,Mateo Armando Prado,8.7,7.9,9.2,7.2,8.4,8.0,7.2,7.85,8.3,5.0,2.4,0.4,0.4,8.2,Aprobado
+SEC1246,Irene Angélica Varela,5.5,7.8,5.8,8.4,1.3,10.0,9.5,9.69,5.8,3.5,3.0,0.5,0.5,7.5,Aprobado
+SEC1247,Silvia Arguello,6.4,5.6,8.8,9.5,7.0,7.9,9.3,9.59,7.5,4.5,2.4,0.5,0.5,7.9,Aprobado
+SEC1249,Camilo Rebeca Granados,7.6,9.2,6.0,5.3,9.8,6.2,9.3,8.69,7.6,4.5,1.9,0.5,0.4,7.3,Aprobado
+SEC1250,Mayte Prado Aguirre,7.1,6.8,7.0,7.6,2.5,9.6,9.3,7.92,6.2,3.7,2.9,0.5,0.4,7.5,Aprobado
+SEC1251,Mauro Silvia Valentín,7.9,7.8,9.3,5.2,9.1,7.6,7.9,7.53,7.9,4.7,2.3,0.4,0.4,7.8,Aprobado
+SEC1252,Paulina Quintana Badillo,6.2,9.1,7.5,8.7,7.3,8.2,8.8,9.81,7.8,4.7,2.5,0.4,0.5,8.1,Aprobado
+SEC1253,Esparta Ochoa Espinoza,6.3,8.1,9.5,5.2,8.1,9.8,7.1,9.22,7.4,4.5,2.9,0.4,0.5,8.3,Aprobado
+SEC1254,Jacinto Cedillo,5.2,5.3,5.7,9.6,8.3,6.5,8.3,9.7,6.8,4.1,2.0,0.4,0.5,7.0,Aprobado
+SEC1255,Maximiliano Teodoro Domínguez Arreola,6.4,7.2,6.5,6.6,7.9,6.0,9.2,8.79,6.9,4.2,1.8,0.5,0.4,6.9,Aprobado
+SEC1256,Alicia Camacho Collado,8.4,8.3,5.5,9.9,6.1,7.6,7.6,8.49,7.6,4.6,2.3,0.4,0.4,7.7,Aprobado
+SEC1257,Linda Armando Castellanos,5.6,6.6,7.1,6.0,4.6,9.5,7.5,9.02,6.0,3.6,2.8,0.4,0.5,7.3,Aprobado
+SEC1258,Óscar Miriam Saavedra,9.9,5.1,9.5,8.5,9.4,6.3,9.2,9.91,8.5,5.1,1.9,0.5,0.5,8.0,Aprobado
+SEC1259,José Luis Luz Vargas Zapata,5.2,5.6,9.4,8.3,6.1,8.2,8.6,9.77,6.9,4.2,2.5,0.4,0.5,7.6,Aprobado
+SEC1260,David Esparta Salcido,6.5,8.3,5.8,9.7,5.6,9.5,8.8,8.2,7.2,4.3,2.8,0.4,0.4,7.9,Aprobado
+SEC1261,Aldonza Carbajal,5.2,7.7,8.4,5.3,8.4,7.0,9.7,8.47,7.0,4.2,2.1,0.5,0.4,7.2,Aprobado
+SEC1262,Natividad Óscar del Valle Sandoval,8.5,5.3,8.3,7.2,2.3,7.5,7.6,7.57,6.3,3.8,2.2,0.4,0.4,6.8,Aprobado
+SEC1263,María Estela Zelaya Guillen,5.1,5.3,5.6,6.3,9.7,7.9,9.5,9.83,6.4,3.8,2.4,0.5,0.5,7.2,Aprobado
+SEC1266,Gregorio Vallejo,7.8,5.1,8.5,7.0,7.1,9.5,7.2,7.79,7.1,4.3,2.8,0.4,0.4,7.9,Aprobado
+SEC1267,Karla de la O,8.7,8.7,5.1,5.6,5.1,7.6,7.8,9.93,6.6,4.0,2.3,0.4,0.5,7.2,Aprobado
+SEC1268,Mónica Esparta Sevilla,8.6,9.7,8.5,8.9,4.7,7.7,8.1,9.15,8.1,4.8,2.3,0.4,0.5,8.0,Aprobado
+SEC1269,Trinidad Noemí Jaimes,9.3,8.0,5.0,6.9,8.4,9.2,8.7,9.24,7.5,4.5,2.8,0.4,0.5,8.2,Aprobado
+SEC1270,Delia Muro,8.0,9.9,5.1,5.2,6.0,8.6,9.6,8.31,6.8,4.1,2.6,0.5,0.4,7.6,Aprobado
+SEC1271,Leticia Elias Zepeda García,6.0,7.4,9.2,5.5,9.0,7.7,10.0,8.91,7.4,4.5,2.3,0.5,0.4,7.7,Aprobado
+SEC1273,Pablo José Carlos Cortez,7.1,7.8,7.3,5.4,8.0,7.1,8.5,8.42,7.1,4.3,2.1,0.4,0.4,7.2,Aprobado
+SEC1274,Araceli Rosales Escalante,7.5,8.2,6.4,7.3,6.6,6.1,9.6,8.67,7.2,4.3,1.8,0.5,0.4,7.0,Aprobado
+SEC1275,Sessa Natividad Alonso,9.3,6.4,7.3,9.9,10.0,6.3,9.3,8.17,8.6,5.1,1.9,0.5,0.4,7.9,Aprobado
+SEC1276,Aurora Modesto Barragán,5.9,9.7,7.0,6.5,7.7,8.9,8.6,9.74,7.4,4.4,2.7,0.4,0.5,8.0,Aprobado
+SEC1277,Rafaél Socorro Fernández,9.2,8.9,6.7,7.1,8.7,8.0,9.8,7.95,8.1,4.9,2.4,0.5,0.4,8.2,Aprobado
+SEC1278,Gonzalo Chacón Herrera,8.4,9.4,5.6,9.0,6.8,6.7,9.9,7.61,7.8,4.7,2.0,0.5,0.4,7.6,Aprobado
+SEC1279,Dalia Gaytán,7.0,5.4,8.9,8.0,9.1,6.8,7.2,7.76,7.7,4.6,2.0,0.4,0.4,7.4,Aprobado
+SEC1280,María José Robles,9.9,6.9,8.3,9.0,9.5,9.6,9.1,7.72,8.7,5.2,2.9,0.5,0.4,9.0,Aprobado
+SEC1281,Dolores Vicente Carrión Leiva,8.9,7.1,6.4,8.5,8.9,8.0,9.3,9.81,8.0,4.8,2.4,0.5,0.5,8.2,Aprobado
+SEC1282,Jaqueline Ángela Solorio Barajas,6.3,7.9,8.8,9.5,6.0,6.3,9.7,8.65,7.7,4.6,1.9,0.5,0.4,7.4,Aprobado
+SEC1285,René Tomás Fuentes Garibay,7.9,6.6,9.9,8.5,5.6,6.7,9.7,7.8,7.7,4.6,2.0,0.5,0.4,7.5,Aprobado
+SEC1286,Ilse Sauceda Munguía,9.1,8.7,8.2,7.0,5.6,6.7,9.5,8.35,7.7,4.6,2.0,0.5,0.4,7.5,Aprobado
+SEC1287,Lucas Bianca Rolón Alvarado,9.4,8.7,6.9,5.5,8.3,7.7,9.9,8.65,7.8,4.7,2.3,0.5,0.4,7.9,Aprobado
+SEC1288,Bernardo Abril Terán Manzanares,6.3,7.4,7.4,6.8,7.7,9.6,9.1,8.28,7.1,4.3,2.9,0.5,0.4,8.1,Aprobado
+SEC1289,Flavio Avilés del Valle,5.1,7.9,8.2,9.1,10.0,8.2,8.9,8.64,8.1,4.8,2.5,0.4,0.4,8.1,Aprobado
+SEC1290,Conchita Ricardo Cavazos,7.8,7.9,9.8,8.5,7.5,7.8,9.6,8.02,8.3,5.0,2.3,0.5,0.4,8.2,Aprobado
+SEC1293,Reynaldo Lerma,7.9,7.3,8.4,9.8,5.7,8.9,9.2,7.68,7.8,4.7,2.7,0.5,0.4,8.3,Aprobado
+SEC1294,Amalia Jorge Saavedra,6.9,8.3,6.7,6.2,5.9,7.5,8.6,8.7,6.8,4.1,2.2,0.4,0.4,7.1,Aprobado
+SEC1295,Alvaro Mauro Rivera,8.7,9.7,9.8,8.1,7.4,8.8,8.8,8.57,8.7,5.2,2.6,0.4,0.4,8.6,Aprobado
+SEC1296,Jacobo Esquivel,5.1,7.1,9.6,6.2,6.4,7.7,7.2,7.71,6.9,4.1,2.3,0.4,0.4,7.2,Aprobado
+SEC1298,Agustín Zaragoza,9.9,8.9,6.2,6.8,8.3,8.7,8.5,7.51,8.0,4.8,2.6,0.4,0.4,8.2,Aprobado
+SEC1299,Jos Marisela Lomeli,5.1,8.8,5.9,6.1,7.8,7.4,8.7,8.0,6.7,4.0,2.2,0.4,0.4,7.0,Aprobado
+SEC1300,Daniela Gamez Valencia,5.8,5.1,8.6,6.3,9.9,7.8,8.9,7.76,7.1,4.3,2.3,0.4,0.4,7.4,Aprobado
+SEC1301,Gilberto Montes Muro,9.2,7.1,9.0,7.5,9.8,8.7,7.3,7.76,8.5,5.1,2.6,0.4,0.4,8.5,Aprobado
