@@ -1,5 +1,7 @@
 # 📊 Análisis ETL de Calificaciones
 
+
+
 ## Descripción
 
 Este proyecto desarrolla un proceso ETL (Extract, Transform, Load) para el análisis de calificaciones de estudiantes utilizando Python.
@@ -41,3 +43,13 @@ Principales campos analizados:
 ### Cargar
 
 - Creacipon de archivo de salida con dataframe resultado
+
+<p align="center">
+  <img src="ima/promediomaterias.png" width="900">
+</p>
+<p align="center">
+  <img src="ima/riesgo.png" width="900">
+</p>
+<p align="center">
+  <img src="ima/top3.png" width="900">
+</p>
