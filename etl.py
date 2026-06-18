@@ -86,8 +86,8 @@ plt.xlabel("Materias")
 plt.ylabel("Calificación Promedio")
 plt.ylim(0,10)
 
+plt.savefig("promediomaterias.png", dpi=300, bbox_inches="tight")
 plt.show()
-
 #Top 3 mejores alumnos
 
 conte = top3.reset_index()
@@ -98,6 +98,7 @@ sns.barplot(data = conte, x="cal_final",y="Nombre_Alumno",color="green")
 plt.title("Mejores Alumnos")
 plt.xlabel("Alumnos")
 plt.ylabel("Promedios")
+plt.savefig("top3.png", dpi=300, bbox_inches="tight")
 plt.show()
 
 #Alumnos en riesgo
@@ -110,7 +111,11 @@ sns.barplot(data = conte2, x="cal_final",y="Nombre_Alumno",color="orange")
 plt.title("Alumnos en Riesgo")
 plt.xlabel("Alumnos")
 plt.ylabel("Promedios")
+plt.savefig("riesgo.png", dpi=300, bbox_inches="tight")
 plt.show()
+
+
+
 
 
 
