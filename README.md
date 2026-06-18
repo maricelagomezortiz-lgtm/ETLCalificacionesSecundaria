@@ -47,9 +47,11 @@ Principales campos analizados:
 <p align="center">
   <img src="img/promediomaterias.png" width="900">
 </p>
-<p align="center">
-  <img src="img/riesgo.png" width="900">
-</p>
+
 <p align="center">
   <img src="img/top3.png" width="900">
+</p>
+
+<p align="center">
+  <img src="img/riesgo.png" width="900">
 </p>
